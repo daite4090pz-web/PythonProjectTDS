@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="64" tileheight="64" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" source="../../../../Desktop/Новая папка/й/start.tsx"/>
+ <tileset firstgid="257" source="../../../../Desktop/Новая папка/й/path.tsx"/>
+ <tileset firstgid="513" source="../../../../Desktop/Новая папка/й/grass.tsx"/>
+ <tileset firstgid="577" source="../../../../Desktop/Новая папка/й/tower_spot.tsx"/>
+ <tileset firstgid="1601" source="../../../../Desktop/Новая папка/й/end.tsx"/>
+ <layer id="1" name="Background" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJzjYmJg4CITgwC5ekm1h1qAFu5GNheX2aTYSQv3oYcBofClxO/o+okxD10vNvNw0cSYh889pPoXV3ihu52UMCUljLCxqQGICTtyxakFAMB7CPU=
+  </data>
+ </layer>
+ <layer id="2" name="Path" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBj8QIiROhjZPGq7b7Cbhy0ccMmTYj8u8wipGcrmEQovYtRQCtDT82DPH9RyHwDQNAac
+  </data>
+ </layer>
+ <layer id="3" name="TowerSpots" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfJDNRoHkYAlB44AqT4R5W+PxOrH5C5hHiEytHK0BN/1PbfHIAqWmZHu4DAGciBxs=
+  </data>
+ </layer>
+ <layer id="4" name="srart-end" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg5wIltoF0wCkbBKCAXCAExABQhAFs=
+  </data>
+ </layer>
+ <layer id="5" name="collision" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIKhAQAEsAAB
+  </data>
+ </layer>
+</map>

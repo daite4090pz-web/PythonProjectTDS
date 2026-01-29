@@ -1,0 +1,9 @@
+{
+  "money": 350,
+  "lives": 25,
+  "score": 0,
+  "wave": 0,
+  "difficulty": "normal",
+  "map_type": "map3",
+  "towers": []
+}
